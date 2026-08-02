@@ -1,0 +1,3 @@
+modelo,accuracy,precision,recall,f1,roc_auc,cv_f1_mean,cv_f1_std,mejores_parametros,matriz_confusion
+Regresion Logistica,0.9736842105263158,0.9726027397260274,0.9861111111111112,0.9793103448275862,0.9957010582010581,0.9861164154764722,0.0042373687539358955,"{""clf__C"": 0.1, ""clf__penalty"": ""l2"", ""clf__solver"": ""lbfgs""}","[[40, 2], [1, 71]]"
+Random Forest,0.9473684210526315,0.9583333333333334,0.9583333333333334,0.9583333333333334,0.9942129629629629,0.9737278310076448,0.014700057136696955,"{""clf__max_depth"": null, ""clf__min_samples_split"": 2, ""clf__n_estimators"": 100}","[[39, 3], [3, 69]]"
