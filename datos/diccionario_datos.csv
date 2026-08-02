@@ -1,0 +1,33 @@
+campo,tipo,descripcion
+mean radius,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+mean texture,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+mean perimeter,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+mean area,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+mean smoothness,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+mean compactness,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+mean concavity,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+mean concave points,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+mean symmetry,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+mean fractal dimension,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+radius error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+texture error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+perimeter error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+area error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+smoothness error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+compactness error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+concavity error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+concave points error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+symmetry error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+fractal dimension error,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst radius,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst texture,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst perimeter,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst area,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst smoothness,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst compactness,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst concavity,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst concave points,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst symmetry,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+worst fractal dimension,float,Variable numerica de diagnostico calculada a partir de imagenes FNA.
+target,integer,"Etiqueta binaria: 0=malignant, 1=benign"
+target_name,string,Nombre de la clase objetivo
